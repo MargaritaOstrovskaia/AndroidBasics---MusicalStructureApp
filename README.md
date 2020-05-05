@@ -1,5 +1,7 @@
 # AndroidBasics---MusicalStructureApp
  Project designed from practice sets from Udacity Android Developers course "Android Basics by Google Nanodegree Program".
+ 
+<img src="https://github.com/MargaritaOstrovskaia/AndroidBasics---MusicalStructureApp/blob/master/screenshots/artists.png" height="30%" width="30%"> <img src="https://github.com/MargaritaOstrovskaia/AndroidBasics---MusicalStructureApp/blob/master/screenshots/albums.png" height="30%" width="30%"> <img src="https://github.com/MargaritaOstrovskaia/AndroidBasics---MusicalStructureApp/blob/master/screenshots/playlist.png" height="30%" width="30%">
 
 ### What I learn?
 This project is about combining various ideas and skills I’ve been practicing throughout the course. 
