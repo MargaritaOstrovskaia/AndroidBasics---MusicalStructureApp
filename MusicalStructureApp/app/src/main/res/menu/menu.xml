@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_artists"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_artist"
+        android:contentDescription="@string/label_artists"
+        android:title="@string/label_artists" />
+    <item
+        android:id="@+id/menu_albums"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_album"
+        android:contentDescription="@string/label_albums"
+        android:title="@string/label_albums" />
+</menu>

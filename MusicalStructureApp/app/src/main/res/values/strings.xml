@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Musical Structure App</string>
+    <string name="artist_photo">artist photo</string>
+    <string name="album_photo">album photo</string>
+    <string name="artists">ARTISTS</string>
+    <string name="songs">SONGS</string>
+    <string name="text_play_all">Play all songs</string>
+    <string name="playlist">PLAYLIST</string>
+    <string name="play_button">play button</string>
+    <string name="equalizer">equalizer</string>
+    <string name="label_playlist">Playlist</string>
+    <string name="label_albums">Albums</string>
+    <string name="label_artists">Artists</string>
+    <string name="def_type">drawable</string>
+</resources>
